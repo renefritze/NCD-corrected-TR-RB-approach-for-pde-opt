@@ -1,0 +1,57 @@
+### basis size 16
+
+tbc
+
+### basis size 24
+
+tbc
+
+### basis size 32
+
+tbc
+
+### basis size 40
+
+\begin{tabular}{lrrll}
+\hline
+ Method       &   max eff for J &   max eff for DJ & max eff for u\_mu   & max eff for p\_mu   \\
+\hline
+ 1a not-corr  &      15.4345741 &    44269.8307044 & -                  & -                  \\
+ 2a semi-corr &   12586.6862083 &    44269.8307045 & -                  & -                  \\
+ 3a AA A-Est  &   12586.6862083 &  4258534.4207670 & -                  & -                  \\
+ 4a AA S-Est  &   12586.6862083 &     1352.7644306 & 58.90682498703112  & 187.16750397644287 \\
+ 5a Corr SA   &   12586.6862083 &    30314.3579579 & 749.8685527956166  & 2435.541902409444  \\
+\hline
+\end{tabular}
+
+### basis size 48
+
+\begin{tabular}{lrrll}
+\hline
+ Method       &   max eff for J &   max eff for DJ & max eff for u\_mu   & max eff for p\_mu   \\
+\hline
+ 1a not-corr  &       4.0803804 &    71392.3285677 & -                  & -                  \\
+ 2a semi-corr &    1865.7813721 &    71392.3285678 & -                  & -                  \\
+ 3a AA A-Est  &    1865.7813721 & 21069000.5742346 & -                  & -                  \\
+ 4a AA S-Est  &    1865.7813721 &      926.4852844 & 44.03389367293849  & 476.4813698404946  \\
+ 5a Corr SA   &    1865.7813721 &     5422.5529477 & 294.1098925364076  & 2018.5742000776359 \\
+\hline
+\end{tabular}
+
+### basis size 56
+
+\begin{tabular}{lrrll}
+\hline
+ Method       &   max eff for J &   max eff for DJ & max eff for u\_mu   & max eff for p\_mu   \\
+\hline
+ 1a not-corr  &     146.7465932 &    77021.5333398 & -                  & -                  \\
+ 2a semi-corr &    6113.7695524 &    77021.5333399 & -                  & -                  \\
+ 3a AA A-Est  &    6113.7695524 & 23547260.7111671 & -                  & -                  \\
+ 4a AA S-Est  &    6113.7695524 &      716.3903139 & 66.1939582898696   & 800.4151327017169  \\
+ 5a Corr SA   &    6113.7695524 &     2569.8465150 & 429.30825599846656 & 1661.151999738164  \\
+\hline
+\end{tabular}
+
+
+
+
